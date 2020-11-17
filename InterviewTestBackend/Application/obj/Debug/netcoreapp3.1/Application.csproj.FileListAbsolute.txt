@@ -1,0 +1,16 @@
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache

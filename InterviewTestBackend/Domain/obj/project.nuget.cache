@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WntkwRy/9RQVyiofaGXA2Xr9Zk7DQwSUPXpKSButJdMp+lJz+G1gD+XxpKBPSiGNOgaeFfktMaHqlRvPKYy1mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\E-commercetest\\source\\repos\\InterviewTestBackend\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E-commercetest\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\E-commercetest\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Domain\bin\Debug\netstandard2.0\Shared.dll
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Domain\bin\Debug\netstandard2.0\Shared.pdb
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\E-commercetest\source\repos\InterviewTestBackend\Domain\obj\Debug\netstandard2.0\Domain.pdb
